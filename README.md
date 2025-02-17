@@ -10,6 +10,8 @@ Interested in frontend development since October 2023. In March, I won a grant t
 * ✉️  You can contact me at [zhuba.sz@gmail.com](mailto:zhuba.sz@gmail.com) and [Telegram](https://t.me/polyquid)
 * 🔭  I’m currently working in **company Piklema.**
 
+My skills:
+----------------------
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
